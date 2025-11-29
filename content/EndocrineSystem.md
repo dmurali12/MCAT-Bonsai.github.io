@@ -1,9 +1,9 @@
 ---
 title: Endocrine System
-draft: true
+draft: false
 tags:
-    - Endocrine
-    - Chapter
+  - Endocrine
+  - Chapter
 ---
 # The Endocrine System
 

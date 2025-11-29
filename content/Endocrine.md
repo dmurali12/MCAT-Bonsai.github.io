@@ -1,6 +1,6 @@
 ---
 title: Endocrine
-draft: true
+draft: false
 tags:
   - Definition
   - Endocrine

@@ -1,9 +1,9 @@
 ---
 title: Hypophyses
-draft: true
+draft: false
 tags:
-    - Endocrine
-    - Definition
+  - Endocrine
+  - Definition
 ---
 
 Another name for the [[pituitary gland]]. 

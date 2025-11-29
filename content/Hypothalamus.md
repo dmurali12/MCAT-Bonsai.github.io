@@ -1,8 +1,8 @@
 ---
 title: Hypothalamus
-draft: true
+draft: false
 tags:
-    - Endocrine
-    - Nervous
-    - Gland
+  - Endocrine
+  - Nervous
+  - Gland
 ---

@@ -1,7 +1,7 @@
 ---
 title: Anterior Pituitary
-draft: true
+draft: false
 tags:
-    - Endocrine
-    - Gland
+  - Endocrine
+  - Gland
 ---

@@ -1,6 +1,6 @@
 ---
 title: Exocrine
-draft: true
+draft: false
 tags:
   - Definition
   - Endocrine
