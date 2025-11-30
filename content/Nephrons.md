@@ -5,16 +5,17 @@ tags:
   - Renal
   - Endocrine
 ---
+## Nephron Overview
 - Functional units of kidneys that perform filtration and concentrate urine
-- Made of **[[glomerulus]]** and tubular segments
-	- **Glomerulus**: tuft of capillaries where the initial filtration happens
-- The tubular segments span both the **cortex** and **medulla** of the [[Kidney Structure|kidney]]
-    
-
-- Each nephron is surrounded by peritubular capillaries
-    
-
+- Made of **[[renal corpuscle]]** and tubular segments
+	- **Renal Corpuscle**: the initial filtration portion, comprised of the **glomerulus*** and **Bowman's Capsule**
+		- **[[Glomerulus]]**: tuft of capillaries where the initial filtration happens
+		- **[[Bowman's Capsule]]**: where the filtrate goes
+- Span both the **[[Renal Cortex|cortex]]** and **[[Renal medulla|medulla]]** of the [[Kidney Structure|kidney]]
+	- The cortex contains the **convoluted tubules**
+	- The medulla contains the **Loop of Henle**
+- Each nephron is surrounded by **[[peritubular capillaries]]** in the **cortex** and the **[[vasa recta]]** in the **medulla**
 - Allow exchange of water and other molecules between blood and filtrate (the would-be urine)
-    
 
-Vasa recta: capillaries around tubular segments**
+
+![[Pasted image 20251130133502.png]]
