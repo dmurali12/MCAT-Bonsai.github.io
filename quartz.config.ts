@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "dmurali12.github.io/bread-basket.github.io",
+    baseUrl: "dmurali12.github.io/MCAT-Bonsai.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
