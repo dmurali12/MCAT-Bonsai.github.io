@@ -14,6 +14,8 @@ tags:
 
 The endocrine system works in what we call *axes* which are systems of glands and organs that communicate through **[[Hormone|hormones]]**, which are **chemical messengers**. 
 
+## Hormone categorization
+
 Hormones are categorized through:
 - Their structure and mechanism
 	- [[Peptide Hormones]]
