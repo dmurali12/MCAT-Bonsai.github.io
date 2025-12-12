@@ -1,6 +1,6 @@
 ---
 title: Glomerulus
-draft: false
+draft: true
 tags:
   - Definition
   - Renal

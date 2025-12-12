@@ -16,7 +16,7 @@ The glomerular capillary walls is a filtration system of 3 sieves:
 ### Layer 2: Basement membrane
 - Made up of 3 layers
 	- *You do NOT need to know the 3 layers of the basement membrane*, BUT if you're curious:
-		- [The least complex, but somewhat comprehensive list I could find (Wikipedia)][https://en.wikipedia.org/wiki/Glomerular_basement_membrane]
+		- [The least complex, but somewhat comprehensive list I could find (Wikipedia)](https://en.wikipedia.org/wiki/Glomerular_basement_membrane)
 - Prevent ***plasma proteins*** from being filtered out
 
 If you're keeping track, what's left is **solutes and fluids**
@@ -29,4 +29,6 @@ If you're keeping track, what's left is **solutes and fluids**
 *“2613 Podocytes.jpg” by OpenStax College, licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/), via Wikimedia Commons.*  
 Source: https://commons.wikimedia.org/wiki/File:2613_Podocytes.jpg
 
-Only allows smallest proteins and small solutes like glucose, ions, and urea
+Only allows smallest proteins and small solutes like glucose, ions, and urea. 
+
+Next step: [[Nephrons|The Nephron]]
