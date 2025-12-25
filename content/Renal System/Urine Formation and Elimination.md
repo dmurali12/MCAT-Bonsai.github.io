@@ -36,6 +36,11 @@ The glomerular capillary walls are designed like a sieve with 3 layers
 	- Thin diaphragm between the slits acts as a final filtration barrier
 	- Only allows smallest proteins and small solutes like glucose, ions, and urea
 
+### [[Fluid Movement through Glomerulus]]
+- Governed by [[hydrostatic pressure]] and [[osmotic pressure]]
+- 
+
+
 ## Fate of the Filtrate
 
 This is where the [[Nephrons|nephrons]] come in. [[glomerular filtration|Glomerular filtration]] is efficient, but imperfect. It essentially sorts everything by size.

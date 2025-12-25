@@ -4,7 +4,7 @@ draft: false
 tags:
   - Renal
 ---
-The glomerular capillary walls is a filtration system of 3 sieves:
+The [[glomerulus|glomerular]] capillary walls is a filtration system of 3 sieves:
 - The first one with the largest holes, letting most things through into the **[[Bowman's Capsule]]**
 	- REMEMBER: things in the Bowman's Capsule are on the path for excretion (ie will become urine)
 - This is then further sorted out through the second and third layers *by size*
